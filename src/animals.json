@@ -1,0 +1,38 @@
+{
+    "data": [{
+            "type": "human",
+            "value": {
+                "name": "Franek",
+                "mass": 80
+            }
+        },
+        {
+            "type": "human",
+            "value": {
+                "name": "Zuzanna",
+                "mass": 52
+            }
+        },
+        {
+            "type": "lion",
+            "value": {
+                "name": "Alex",
+                "mass": 190
+            }
+        },
+        {
+            "type": "raven",
+            "value": {
+                "name": "Witchraven",
+                "mass": 1.5
+            }
+        },
+        {
+            "type": "piranha",
+            "value": {
+                "name": "Pirannna",
+                "mass": 3
+            }
+        }
+    ]
+}
